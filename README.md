@@ -1,6 +1,6 @@
 ## Login & Sing Up UI (Vue.Js + CSS UI/UX Demo)
 
-## Architecture & Views (Src Code). 
+#### Architecture & Views (Src Code). 
 ◈ [Main.js](https://github.com/KishanV/Vue-Demo/blob/master/src/main.js)</br>
 ◈ [App](https://github.com/KishanV/Vue-Demo/blob/master/src/router/App.vue)</br>
 ◈ [Login](https://github.com/KishanV/Vue-Demo/blob/master/src/router/Login.vue)</br>
