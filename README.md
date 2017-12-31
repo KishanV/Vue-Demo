@@ -1,11 +1,10 @@
 ## Login & Sing Up UI (Vue.Js + CSS UI/UX Demo)
 
 ## Architecture & Views (Src Code). 
-◈ [Wifi Component in JQuery](https://github.com/KishanV/WebPortal/blob/master/src/settings/wifiSetting/wifiSetting.js)  + QuickTags. [See screenshots](https://github.com/KishanV/WebPortal/blob/master/screenshot/wifi.png)</br>
-◈ [Wifi Component in ReactJS](https://github.com/KishanV/WebPortal/blob/master/src/settings/wifiSettingReact/wifiSetting.jsx) & more</br> 
-◈ [Home](https://github.com/KishanV/WebPortal/blob/master/src/home/home.js)</br>
-◈ [SCSS](https://github.com/KishanV/WebPortal/blob/master/src/home/home.scss)</br>
-◈ [Settings Modules DIR](https://github.com/KishanV/WebPortal/tree/master/src/settings)</br> 
+◈ [Main.js](https://github.com/KishanV/Vue-Demo/blob/master/src/main.js)</br>
+◈ [App](https://github.com/KishanV/Vue-Demo/blob/master/src/router/App.vue)</br>
+◈ [Login](https://github.com/KishanV/Vue-Demo/blob/master/src/router/Login.vue)</br>
+◈ [Sing Up](https://github.com/KishanV/Vue-Demo/blob/master/src/router/Singup.vue)</br>
 
 #### Screenshots & Looks (Images).
 </br>
