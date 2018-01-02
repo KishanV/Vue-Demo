@@ -1,13 +1,13 @@
 <template>
   <div id="singup">
-    <div class='title'>Sing Up</div>
+    <div class='title'>Sign Up</div>
     <div class="body">
       <input v-model="username" type="text" placeholder="Username" class="user textbox"></input>
       <input v-model="email" type="text" placeholder="Email" class="user textbox"></input>
       <input v-model="password" type="password" placeholder="Password" class="pass textbox"></input>
       <input v-model="reenterPassword" type="password" placeholder="Renter Password" class="pass textbox"></input>
     </div>
-    <div class="btn" v-on:click="submit">Singup</div>
+    <div class="btn" v-on:click="submit">Go</div>
     <div class="new" v-on:click="backSingin">Back to Login</div>
   </div>
 </template>

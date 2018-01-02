@@ -1,6 +1,6 @@
 <template>
   <div id="login">
-    <div class='title'>Sing In</div>
+    <div class='title'>Sign In</div>
     <div class="body">
       <input v-model="username" type="text" placeholder="Username" class="user textbox"></input>
       <input v-model="email" type="text" placeholder="Email" class="user textbox"></input>
