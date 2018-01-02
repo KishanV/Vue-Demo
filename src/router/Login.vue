@@ -5,8 +5,8 @@
       <input v-model="username" type="text" placeholder="Username" class="user textbox"></input>
       <input v-model="email" type="text" placeholder="Email" class="user textbox"></input>
     </div>
-    <div class="btn" v-on:click="submit">Login</div>
-    <div class="new" v-on:click="openSingup">Create new Account</div>
+    <div class="btn" v-on:click="submit">Go</div>
+    <div class="new" v-on:click="openSingup">Create new account</div>
   </div>
 </template>
 

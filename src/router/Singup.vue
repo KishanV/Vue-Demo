@@ -8,7 +8,7 @@
       <input v-model="reenterPassword" type="password" placeholder="Renter Password" class="pass textbox"></input>
     </div>
     <div class="btn" v-on:click="submit">Go</div>
-    <div class="new" v-on:click="backSingin">Back to Login</div>
+    <div class="new" v-on:click="backSingin">Back to Sign Up</div>
   </div>
 </template>
 

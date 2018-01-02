@@ -1,10 +1,10 @@
-## Login & Sing Up UI (Vue.Js + CSS UI/UX Demo)
+## Sign In & Sign Up UI (Vue.Js + CSS UI/UX Demo)
 
-#### Architecture & Views (Src Code). 
+#### Architecture & Views (Source Code).
 ◈ [Main.js](https://github.com/KishanV/Vue-Demo/blob/master/src/main.js)</br>
 ◈ [App](https://github.com/KishanV/Vue-Demo/blob/master/src/router/App.vue)</br>
-◈ [Login](https://github.com/KishanV/Vue-Demo/blob/master/src/router/Login.vue)</br>
-◈ [Sing Up](https://github.com/KishanV/Vue-Demo/blob/master/src/router/Singup.vue)</br>
+◈ [Sign In](https://github.com/KishanV/Vue-Demo/blob/master/src/router/Login.vue)</br>
+◈ [Sign Up](https://github.com/KishanV/Vue-Demo/blob/master/src/router/Singup.vue)</br>
 
 #### Screenshots & Looks (Images).
 </br>
